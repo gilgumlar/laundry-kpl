@@ -1,0 +1,10 @@
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\bin\Debug\Laundry-KPL.exe.config
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\bin\Debug\Laundry-KPL.exe
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\bin\Debug\Laundry-KPL.pdb
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\obj\Debug\Laundry-KPL.csprojAssemblyReference.cache
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\obj\Debug\Laundry_KPL.Form1.resources
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\obj\Debug\Laundry_KPL.Properties.Resources.resources
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\obj\Debug\Laundry-KPL.csproj.GenerateResource.cache
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\obj\Debug\Laundry-KPL.csproj.CoreCompileInputs.cache
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\obj\Debug\Laundry-KPL.exe
+E:\Kuliah\KONSTRUKSI PERANGKAT LUNAK\laundry-kpl\Laundry-KPL\Laundry-KPL\obj\Debug\Laundry-KPL.pdb
